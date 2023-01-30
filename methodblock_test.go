@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/moonlightwatch/MethodBlock"
+	"github.com/JimmyTsai16/MethodBlock"
 )
 
 func TestBlock(t *testing.T) {
